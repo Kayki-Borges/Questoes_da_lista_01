@@ -1,0 +1,6 @@
+n1 = int(input("Digite um número:"))
+print("-"*20)
+n2 = int(input("Dite outro número:"))
+print("-"*20)
+print("A soma de {} + {} é = {}".format(n1,n2,n1+n2))
+print("-"*20)

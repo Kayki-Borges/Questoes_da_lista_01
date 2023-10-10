@@ -1,0 +1,5 @@
+print("-"*20)
+F = float(input("digite a temperatura em Farenheit:"))
+print("-"*20)
+print("A temperatura de {} Farenheit em grau celsius é {}".format(F,F-F*5/9))
+print("-"*20)

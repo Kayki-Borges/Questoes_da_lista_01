@@ -1,0 +1,5 @@
+print("-"*20)
+r = float(input("Digite o raio:"))
+print("-"*20)
+print("A área do circulo é {}".format(3,14*(r*2)))
+print("-"*20)
