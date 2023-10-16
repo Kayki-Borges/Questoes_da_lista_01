@@ -1,7 +1,3 @@
-print("-"*20)
 G = float(input("Quanto você ganha por hora?:"))
-print("-"*20)
 H = float(input("Por quantas horas você trabalhou neste mês?:"))
-print("-"*20)
 print("Você trabalhou por {} horas e galhou {} neste mês".format(H,G*H))
-print("-"*20)
